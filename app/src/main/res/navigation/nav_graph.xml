@@ -23,6 +23,7 @@
         android:name="com.example.bottomnav.fragments.ContactFragment"
         android:label="fragment_second"
         tools:layout="@layout/fragment_contact" />
+
     <fragment
         android:id="@+id/aboutFragID"
         android:name="com.example.bottomnav.fragments.AboutFragment"
